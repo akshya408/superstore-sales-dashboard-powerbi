@@ -81,9 +81,9 @@ Furniture: Green
 Top Region: Highlight with a darker or vivid color
 
 excel data:
- - href = "https://github.com/akshya408/superstore-sales-dashboard-powerbi/blob/main/superstore_sales-Copy%20-%20Copy.xlsx">sample data</a>
-![10](https://github.com/user-attachments/assets/f9d051f3-c47b-4a9d-bddb-7c550b89e3fb)
+ - href ="https://github.com/akshya408/superstore-sales-dashboard-powerbi/blob/main/superstore_sales-Copy%20-%20Copy.xlsx"> sample data</a>
+ ![10](https://github.com/user-attachments/assets/f9d051f3-c47b-4a9d-bddb-7c550b89e3fb)
 
 DASHBOARD:
- - href = "https://github.com/akshya408/superstore-sales-dashboard-powerbi/blob/main/superstore%20dashboard.pbix">DASHBOARD</a>
+ - href ="https://github.com/akshya408/superstore-sales-dashboard-powerbi/blob/main/superstore%20dashboard.pbix">DASHBOARD</a>
  
