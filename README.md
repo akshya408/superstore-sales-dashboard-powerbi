@@ -82,8 +82,8 @@ Top Region: Highlight with a darker or vivid color
 
 excel data:
  -<a href ="https://github.com/akshya408/superstore-sales-dashboard-powerbi/blob/main/superstore_sales-Copy%20-%20Copy.xlsx"> sample data</a>
- ![10](https://github.com/user-attachments/assets/f9d051f3-c47b-4a9d-bddb-7c550b89e3fb)
-
+ 
 DASHBOARD:
  -<a href ="https://github.com/akshya408/superstore-sales-dashboard-powerbi/blob/main/superstore%20dashboard.pbix">DASHBOARD</a>
- 
+ ![10](https://github.com/user-attachments/assets/e3896a24-f5e2-4800-a896-3fbf12689f25)
+
